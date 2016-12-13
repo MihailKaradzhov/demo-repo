@@ -1,3 +1,5 @@
 New fail
 
 Update with Bash
+Update with TortoiseGit
+
